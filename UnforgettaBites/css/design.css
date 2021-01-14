@@ -1,0 +1,44 @@
+/*-------------------Background--------------------------*/
+body {
+  background-image: url("https://www.aryzta.com/wp-content/uploads/2016/01/header_panel_5.jpg");
+  background-repeat: repeat;
+  background-position: top; 
+  background-attachment: fixed; /* gambar tu fixed even scrolled */
+  height:100%;
+  background-size: cover;
+  background-color: #FFF;
+  margin: 0px;
+  padding: 0px;
+}
+
+/*-----------------Font----------------------------*/
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/*--------------Logo at home---------------------------*/
+.center {
+	display: block;
+  padding:15px;
+  width: 15%;
+  height:15%;
+  border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

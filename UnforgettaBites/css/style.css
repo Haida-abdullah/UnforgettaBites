@@ -1,0 +1,10 @@
+/*-------------------Background--------------------------*/
+body {
+  background-image: url("cake.jpg");
+  background-repeat: repeat;
+  background-position: top; 
+  background-attachment: fixed; /* gambar tu fixed even scrolled */
+  height:100%;
+  background-size: cover;
+
+}
